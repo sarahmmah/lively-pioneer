@@ -72,7 +72,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 I am an Assistant Professor in the Department of Geography at the University of Vermont. My research focuses on how neighborhoods and social connections shape health across populations. I have specific interests in linked administrative health data, residential history, environmental exposures, and built environments. This page is in development :)
